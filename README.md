@@ -1,4 +1,4 @@
-# ImersaoJavaAlura
+# Imersão Java - <sub>Alura</sub>
 Este repositório conterá o código das aulas da Semana de Imersão Java da Alura.
 
 ## Aula 1
